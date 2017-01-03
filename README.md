@@ -4,9 +4,28 @@
 [![GitHub](https://img.shields.io/github/release/idleberg/vscode-subway-dark.svg?style=flat-square)](https://github.com/idleberg/vscode-subway-dark/releases)
 [![Travis branch](https://img.shields.io/travis/idleberg/vscode-subway-dark/master.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-subway-dark)
 
-A collection of color schemes based on subway maps from around the world
+A collection of color schemes based on subway maps from around the world (also available in a [light variant](https://marketplace.visualstudio.com/items?itemName=idleberg.subway)!)
 
 ![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-subway-dark/master/images/screenshot.png)
+
+**Themes:**
+
+* Barcelona
+* Berlin
+* Buenos Aires
+* Chicago
+* Copenhagen
+* Hong Kong
+* London
+* Madrid
+* Moscow
+* New-york
+* Paris
+* São Paulo
+* Seoul
+* Sydney
+* Tokyo
+* Zürich
 
 ## Installation
 
