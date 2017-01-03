@@ -39,7 +39,7 @@ $ cd ~/.vscode/extensions/
 Clone repository as `subway-dark`:
 
 ```bash
-$ git clone https://github.com/idleberg/vscode-subway-dark idleberg.subway
+$ git clone https://github.com/idleberg/vscode-subway-dark idleberg.subway-dark
 ```
 
 ## License
