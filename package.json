@@ -38,67 +38,67 @@
     "contributes": {
         "themes": [
             {
-                "label": "Barcelona",
+                "label": "Barcelona (dark)",
                 "path": "./themes/barcelona.tmTheme"
             },
             {
-                "label": "Subway: Berlin",
+                "label": "Subway: Berlin (dark)",
                 "path": "./themes/berlin.tmTheme"
             },
             {
-                "label": "Subway: Buenos Aires",
+                "label": "Subway: Buenos Aires (dark)",
                 "path": "./themes/buenos-aires.tmTheme"
             },
             {
-                "label": "Subway: Chicago",
+                "label": "Subway: Chicago (dark)",
                 "path": "./themes/chicago.tmTheme"
             },
             {
-                "label": "Subway: Copenhagen",
+                "label": "Subway: Copenhagen (dark)",
                 "path": "./themes/copenhagen.tmTheme"
             },
             {
-                "label": "Subway: Hong Kong",
+                "label": "Subway: Hong Kong (dark)",
                 "path": "./themes/hong-kong.tmTheme"
             },
             {
-                "label": "Subway: London",
+                "label": "Subway: London (dark)",
                 "path": "./themes/london.tmTheme"
             },
             {
-                "label": "Subway: Madrid",
+                "label": "Subway: Madrid (dark)",
                 "path": "./themes/madrid.tmTheme"
             },
             {
-                "label": "Subway: Moscow",
+                "label": "Subway: Moscow (dark)",
                 "path": "./themes/moscow.tmTheme"
             },
             {
-                "label": "Subway: New York",
+                "label": "Subway: New York (dark)",
                 "path": "./themes/new-york.tmTheme"
             },
             {
-                "label": "Subway: Paris",
+                "label": "Subway: Paris (dark)",
                 "path": "./themes/paris.tmTheme"
             },
             {
-                "label": "Subway: São Paulo",
+                "label": "Subway: São Paulo (dark)",
                 "path": "./themes/sao-paulo.tmTheme"
             },
             {
-                "label": "Subway: Seoul",
+                "label": "Subway: Seoul (dark)",
                 "path": "./themes/seoul.tmTheme"
             },
             {
-                "label": "Subway: Sydney",
+                "label": "Subway: Sydney (dark)",
                 "path": "./themes/sydney.tmTheme"
             },
             {
-                "label": "Subway: Tokyo",
+                "label": "Subway: Tokyo (dark)",
                 "path": "./themes/tokyo.tmTheme"
             },
             {
-                "label": "Subway: Zürich",
+                "label": "Subway: Zürich (dark)",
                 "path": "./themes/zurich.tmTheme"
             }
         ]
