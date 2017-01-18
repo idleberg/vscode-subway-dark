@@ -1,116 +1,116 @@
 {
-  "name": "subway-dark",
-  "displayName": "Subway (dark)",
-  "description": "A collection of color schemes based on subway maps from around the world",
-  "version": "1.0.3",
-  "publisher": "idleberg",
-  "license": "CC0-1.0",
-  "author": {
-    "name": "Jan T. Sott",
-    "url": "http://github.com/idleberg"
-  },
-  "keywords": [
-    "base16",
-    "cartography",
-    "subway maps",
-    "subway",
-    "transportation"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/idleberg/vscode-subway-dark.git"
-  },
-  "homepage": "https://github.com/idleberg/vscode-subway-dark",
-  "bugs": {
-    "url": "https://github.com/idleberg/vscode-subway-dark/issues"
-  },
-  "icon": "images/logo.svg",
-  "galleryBanner": {
-    "color": "#f1e7d3"
-  },
-  "engines": {
-    "vscode": "^1.0.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Barcelona (dark)",
-        "path": "./themes/barcelona.tmTheme"
-      },
-      {
-        "label": "Subway: Berlin (dark)",
-        "path": "./themes/berlin.tmTheme"
-      },
-      {
-        "label": "Subway: Buenos Aires (dark)",
-        "path": "./themes/buenos-aires.tmTheme"
-      },
-      {
-        "label": "Subway: Chicago (dark)",
-        "path": "./themes/chicago.tmTheme"
-      },
-      {
-        "label": "Subway: Copenhagen (dark)",
-        "path": "./themes/copenhagen.tmTheme"
-      },
-      {
-        "label": "Subway: Hong Kong (dark)",
-        "path": "./themes/hong-kong.tmTheme"
-      },
-      {
-        "label": "Subway: London (dark)",
-        "path": "./themes/london.tmTheme"
-      },
-      {
-        "label": "Subway: Madrid (dark)",
-        "path": "./themes/madrid.tmTheme"
-      },
-      {
-        "label": "Subway: Moscow (dark)",
-        "path": "./themes/moscow.tmTheme"
-      },
-      {
-        "label": "Subway: New York (dark)",
-        "path": "./themes/new-york.tmTheme"
-      },
-      {
-        "label": "Subway: Paris (dark)",
-        "path": "./themes/paris.tmTheme"
-      },
-      {
-        "label": "Subway: São Paulo (dark)",
-        "path": "./themes/sao-paulo.tmTheme"
-      },
-      {
-        "label": "Subway: Seoul (dark)",
-        "path": "./themes/seoul.tmTheme"
-      },
-      {
-        "label": "Subway: Sydney (dark)",
-        "path": "./themes/sydney.tmTheme"
-      },
-      {
-        "label": "Subway: Tokyo (dark)",
-        "path": "./themes/tokyo.tmTheme"
-      },
-      {
-        "label": "Subway: Zürich (dark)",
-        "path": "./themes/zurich.tmTheme"
-      }
-    ]
-  },
-  "devDependencies": {
-    "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-debug": "^3.0.0",
-    "gulp-eslint": "^3.0.1",
-    "gulp-jsonlint": "^1.2.0",
-    "gulp-xml-validator": "^0.1.2",
-    "vscode": "^1.0.3"
-  },
-  "scripts": {
-    "test": "gulp lint"
-  }
+    "name": "subway-dark",
+    "displayName": "Subway (dark)",
+    "description": "A collection of color schemes based on subway maps from around the world",
+    "version": "1.0.4",
+    "publisher": "idleberg",
+    "license": "CC0-1.0",
+    "author": {
+        "name": "Jan T. Sott",
+        "url": "http://github.com/idleberg"
+    },
+    "keywords": [
+        "base16",
+        "cartography",
+        "subway maps",
+        "subway",
+        "transportation"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/idleberg/vscode-subway-dark.git"
+    },
+    "homepage": "https://github.com/idleberg/vscode-subway-dark",
+    "bugs": {
+        "url": "https://github.com/idleberg/vscode-subway-dark/issues"
+    },
+    "icon": "images/logo.svg",
+    "galleryBanner": {
+        "color": "#f1e7d3"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Barcelona (dark)",
+                "path": "./themes/barcelona.tmTheme"
+            },
+            {
+                "label": "Subway: Berlin (dark)",
+                "path": "./themes/berlin.tmTheme"
+            },
+            {
+                "label": "Subway: Buenos Aires (dark)",
+                "path": "./themes/buenos-aires.tmTheme"
+            },
+            {
+                "label": "Subway: Chicago (dark)",
+                "path": "./themes/chicago.tmTheme"
+            },
+            {
+                "label": "Subway: Copenhagen (dark)",
+                "path": "./themes/copenhagen.tmTheme"
+            },
+            {
+                "label": "Subway: Hong Kong (dark)",
+                "path": "./themes/hong-kong.tmTheme"
+            },
+            {
+                "label": "Subway: London (dark)",
+                "path": "./themes/london.tmTheme"
+            },
+            {
+                "label": "Subway: Madrid (dark)",
+                "path": "./themes/madrid.tmTheme"
+            },
+            {
+                "label": "Subway: Moscow (dark)",
+                "path": "./themes/moscow.tmTheme"
+            },
+            {
+                "label": "Subway: New York (dark)",
+                "path": "./themes/new-york.tmTheme"
+            },
+            {
+                "label": "Subway: Paris (dark)",
+                "path": "./themes/paris.tmTheme"
+            },
+            {
+                "label": "Subway: São Paulo (dark)",
+                "path": "./themes/sao-paulo.tmTheme"
+            },
+            {
+                "label": "Subway: Seoul (dark)",
+                "path": "./themes/seoul.tmTheme"
+            },
+            {
+                "label": "Subway: Sydney (dark)",
+                "path": "./themes/sydney.tmTheme"
+            },
+            {
+                "label": "Subway: Tokyo (dark)",
+                "path": "./themes/tokyo.tmTheme"
+            },
+            {
+                "label": "Subway: Zürich (dark)",
+                "path": "./themes/zurich.tmTheme"
+            }
+        ]
+    },
+    "devDependencies": {
+        "gulp": "github:gulpjs/gulp#4.0",
+        "gulp-debug": "^3.0.0",
+        "gulp-eslint": "^3.0.1",
+        "gulp-jsonlint": "^1.2.0",
+        "gulp-xml-validator": "^0.1.2",
+        "vscode": "^1.0.3"
+    },
+    "scripts": {
+        "test": "gulp lint"
+    }
 }
