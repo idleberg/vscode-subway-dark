@@ -1,8 +1,8 @@
 # Subway Themes for Visual Studio Code (dark variant)
 
-[![Creative Commons](https://flat.badgen.net/badge/license-CC0%201.0-orange)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Creative Commons](https://flat.badgen.net/badge/license/CC0%201.0/orange)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-subway-dark)](https://github.com/idleberg/vscode-subway-dark/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.subway-dark)](https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.subway-dark.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark)
 [![Travis branch](https://flat.badgen.net/travis/idleberg/vscode-subway-dark/master)](https://travis-ci.org/idleberg/vscode-subway-dark)
 
 A collection of color schemes based on subway maps from around the world (also available in a [light variant](https://marketplace.visualstudio.com/items?itemName=idleberg.subway))
